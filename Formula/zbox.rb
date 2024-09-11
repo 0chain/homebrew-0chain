@@ -1,7 +1,7 @@
 class Zbox < Formula
     desc "zbox is a command line interface (CLI) tool to understand the capabilities of Züs dStorage and prototype your app"
     homepage "https://github.com/0chain/zboxcli"
-    version "1.9.0"
+    version "1.17.0"
     license "MIT"
   
     case
