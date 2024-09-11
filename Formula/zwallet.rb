@@ -1,7 +1,7 @@
 class Zwallet < Formula
     desc "zwallet is a command line interface (CLI) to demonstrate the wallet functionalities of Züs"
     homepage "https://github.com/0chain/zwalletcli"
-    version "1.9.0"
+    version "1.17.0"
     license "MIT"
   
     case
